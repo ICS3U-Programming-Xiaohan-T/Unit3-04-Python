@@ -5,14 +5,15 @@
 
 
 def main():
+    # get users input of a number and convert from a string to integer
     integer = int(input("please input an integer: "))
-
+    # when the integer is equal to zero
     if integer == 0:
         print("{} is just a zero".format(integer))
-
+    # when the integer is greater than zero
     elif integer > 0:
         print("{} is a positive integer".format(integer))
-
+    # when the integer is greater than zero
     elif integer < 0:
         print("{} is a negative integer".format(integer))
 
