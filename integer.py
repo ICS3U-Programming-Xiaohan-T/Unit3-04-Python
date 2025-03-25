@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Xiaohan Tian
 # Created on: Mar 25 2025
-# This program is to ask users tp input an integer and identify it.
+# This program is to ask users tp input an integer and find out if it is positive, negative or zero.
 
 
 def main():
